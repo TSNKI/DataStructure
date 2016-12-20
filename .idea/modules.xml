@@ -3,6 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q01/Q01.iml" filepath="$PROJECT_DIR$/Q01/Q01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q02/Q02.iml" filepath="$PROJECT_DIR$/Q02/Q02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q03/Q03.iml" filepath="$PROJECT_DIR$/Q03/Q03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q04/Q04.iml" filepath="$PROJECT_DIR$/Q04/Q04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q05/Q05.iml" filepath="$PROJECT_DIR$/Q05/Q05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q06/Q06.iml" filepath="$PROJECT_DIR$/Q06/Q06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q07/Q07.iml" filepath="$PROJECT_DIR$/Q07/Q07.iml" />
     </modules>
   </component>
 </project>
